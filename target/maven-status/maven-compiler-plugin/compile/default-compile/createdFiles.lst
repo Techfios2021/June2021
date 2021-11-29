@@ -1,0 +1,4 @@
+pages\AddPage.class
+pages\RemoveALLPage.class
+pages\TestBase.class
+pages\RemovePage.class
